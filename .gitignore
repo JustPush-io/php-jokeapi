@@ -1,0 +1,10 @@
+/.phpunit.cache
+/node_modules
+/vendor
+.phpunit.result.cache
+.php-cs-fixer.cache
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
