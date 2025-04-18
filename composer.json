@@ -1,5 +1,5 @@
 {
-  "name": "JustPush-io/php-jokeapi",
+  "name": "justpush-io/php-jokeapi",
   "description": "The missing piece in php, a php wrapper for the famous jokes API",
   "type": "library",
   "license": "MIT",
